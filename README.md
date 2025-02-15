@@ -1,10 +1,5 @@
 # expense-tracker-app
 A simple web app to track expenses, allowing users to add, delete, and view their spending while calculating the total amount.
-
-# Expense Tracker Application
-
-A simple web application that allows users to track their expenses. Built with HTML, CSS, and JavaScript, this app enables users to add, delete, and view their expenses while calculating the total amount spent.
-
 ## Features
 
 *   **Add Expenses:** Users can input expense names and amounts.
